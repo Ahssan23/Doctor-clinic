@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+section {
+    padding: 80px 20px;
+    color: white;
+    text-align: center;
+}
+
+/* HERO */
+.hero {
+    background: url('https://images.unsplash.com/photo-1580281658629-7a4a511bd97a') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.hero .btn {
+    padding: 12px 25px;
+    background: #0c4c70;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+/* ABOUT */
+.about {
+    background: url('https://images.unsplash.com/photo-1587502537685-68f4acdea5a0') center/cover no-repeat;
+}
+
+/* SERVICES */
+.services {
+    background: url('https://images.unsplash.com/photo-1600959907703-99e47d5a26db') center/cover no-repeat;
+}
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
+.cards div {
+    background: rgba(0,0,0,0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* DOCTORS */
+.doctors {
+    background: url('https://images.unsplash.com/photo-1607746882042-944635dfe10e') center/cover no-repeat;
+}
+
+/* APPOINTMENT */
+.appointment {
+    background: #0c4c70;
+}
+.appointment form {
+    display: grid;
+    gap: 10px;
+    max-width: 300px;
+    margin: auto;
+}
+
+/* WHY CHOOSE US */
+.why {
+    background: #157ea8;
+}
+
+/* TESTIMONIALS */
+.testimonials {
+    background: #333;
+}
+
+/* FACILITIES */
+.facilities {
+    background: url('https://images.unsplash.com/photo-1584433144859-1fc3ab64a9c4') center/cover no-repeat;
+}
+
+/* CONTACT */
+.contact {
+    background: url('https://images.unsplash.com/photo-1586773860418-f9a35f4f36fc') center/cover no-repeat;
+}
+
+/* FOOTER */
+.footer {
+    background: black;
+    padding: 20px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .hero {
+        height: auto;
+        padding: 100px 20px;
+    }
+}

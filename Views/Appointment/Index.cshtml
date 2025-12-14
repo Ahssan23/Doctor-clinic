@@ -1,0 +1,63 @@
+@model IEnumerable<ClinicWebsite.Models.Appointment>
+
+<style>
+    .center-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* vertical centering */
+        align-items: center;    /* horizontal centering */
+        min-height: 100vh;
+        gap: 20px;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        max-width: 800px;
+        text-align: left;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    th, td {
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+
+    th {
+        background-color: #f0f0f0;
+    }
+
+    a {
+        text-decoration: none;
+        padding: 8px 12px;
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+    }
+
+    a:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+<div class="center-container">
+    <h2>Appointments</h2>
+
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Username</th>
+            <th>Doctor Name</th>
+        </tr>
+        @foreach (var appt in Model)
+        {
+            <tr>
+                <td>@appt.Date</td>
+                <td>@appt.Username</td>
+                <td>@appt.DoctorName</td>
+            </tr>
+        }
+    </table>
+
+    <a asp-action="Create">Create New Appointment</a>
+</div>

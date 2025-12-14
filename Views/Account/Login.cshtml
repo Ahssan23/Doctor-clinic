@@ -1,0 +1,55 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    .centered-container {
+        display: flex;
+        justify-content: center; /* horizontal center */
+        align-items: center;     /* vertical center */
+        height: 100vh;           /* full viewport height */
+        flex-direction: column;  /* stack children vertically */
+    }
+
+    .centered-container form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        min-width: 300px;        /* optional: make form wider */
+    }
+
+    .centered-container label {
+        font-weight: bold;
+    }
+
+    .centered-container button {
+        margin-top: 10px;
+        padding: 8px;
+    }
+</style>
+
+<div class="centered-container">
+    <h2>Login</h2>
+
+    <form asp-action="Login" method="post">
+        <div>
+            <label>Email</label>
+            <input name="email" type="email" required />
+        </div>
+        <div>
+            <label>Password</label>
+            <input name="password" type="password" required />
+        </div>
+        <button type="submit">Login</button>
+    </form>
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <p style="color:red; text-align:center;">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                @error.ErrorMessage <br />
+            }
+        </p>
+    }
+</div>

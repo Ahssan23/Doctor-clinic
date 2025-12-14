@@ -1,0 +1,64 @@
+@model ClinicWebsite.Models.Appointment
+
+<style>
+    .center-container {
+        display: flex;
+        justify-content: center; /* horizontal center */
+        align-items: center;    /* vertical center */
+        height: 100vh;          /* full viewport height */
+        flex-direction: column; /* stack children vertically */
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;       /* space between fields */
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        min-width: 300px;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input {
+        padding: 5px;
+        font-size: 1rem;
+    }
+
+    button {
+        padding: 8px;
+        font-size: 1rem;
+        cursor: pointer;
+    }
+</style>
+
+<div class="center-container">
+    <h2>Create Appointment</h2>
+
+    <form asp-action="Create" method="post">
+        <div>
+            <label>Date</label>
+            <input asp-for="Date" type="datetime-local" />
+            <span asp-validation-for="Date"></span>
+        </div>
+        <div>
+            <label>Username</label>
+            <input asp-for="Username" />
+            <span asp-validation-for="Username"></span>
+        </div>
+        <div>
+            <label>Doctor Name</label>
+            <input asp-for="DoctorName" />
+            <span asp-validation-for="DoctorName"></span>
+        </div>
+        <button type="submit">Save</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

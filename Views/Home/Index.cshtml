@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewData["Title"] = "Clinic Home";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">ClinicCare</div>
+        <ul class="nav-links">
+            <li><a href="#hero">Home</a></li>
+            <li><a href="/Account/Register">Register</a></li>
+            <li><a href="/Account/Login">Login</a></li>
+            <li><a href="/Appointment">Appointment</a></li>
+            <li><a href="#why">Why Us</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#facilities">Facilities</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </header>
+
+    <!-- HERO -->
+    <section id="hero">
+        <h1>Welcome to Our Clinic</h1>
+        <p>Trusted Care for You & Your Family</p>
+        <a href="#appointment" class="btn">Book Appointment</a>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about">
+        <h2>About Our Clinic</h2>
+        <p>We provide quality healthcare with modern equipment and highly qualified staff to ensure the best patient care. Our mission is to make healthcare accessible, safe, and reliable for everyone.</p>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="cards">
+            <div>Cardiology</div>
+            <div>Dental</div>
+            <div>Orthopedic</div>
+            <div>Neurology</div>
+        </div>
+    </section>
+
+
+    <!-- APPOINTMENT -->
+    <section id="appointment">
+        <h2>Book Appointment</h2>
+        <form>
+            <input type="text" placeholder="Name" required />
+            <input type="date" required />
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <!-- WHY CHOOSE US -->
+    <section id="why">
+        <h2>Why Choose Us</h2>
+        <p>Our clinic prioritizes patient care with modern equipment, experienced medical staff, and personalized treatment plans. We ensure a comfortable environment, fast service, and continuous support to make your healthcare experience seamless and trustworthy.</p>
+    </section>
+
+
+    <!-- TESTIMONIALS -->
+    <section id="testimonials">
+        <h2>Patient Testimonials</h2>
+        <p>"The staff were extremely professional and caring. I felt safe and well looked after!"</p>
+        <p>"Quick service, excellent consultation, and a very clean facility. Highly recommend!"</p>
+    </section>
+
+    <!-- FACILITIES -->
+    <section id="facilities">
+        <h2>Facilities & Equipment</h2>
+        <p>Our clinic is equipped with state-of-the-art medical tools, diagnostic machines, and comfortable patient rooms to ensure top-notch healthcare services.</p>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact">
+        <h2>Contact & Location</h2>
+        <p>Rawalpindi, Pakistan</p>
+        <p>Phone: +92-XXX-XXXXXXX | Email: info@clinicare.com</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2025 Clinic Website</p>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,294 @@
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\appsettings.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.staticwebassets.runtime.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.staticwebassets.endpoints.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.exe
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.deps.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.runtimeconfig.json
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.dll
+C:\Users\user\Desktop\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.pdb
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.AssemblyInfo.cs
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\bundle\ClinicWebsite.styles.css
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\projectbundle\ClinicWebsite.bundle.scp.css
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\oq9kuo3uqe-{0}-mbf4d3fyj8-mbf4d3fyj8.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\kkvlhiw5mr-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\88g94quhbq-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4g7u9hgq9u-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ce7465wobl-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\1mm2drkkry-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4d97dofym2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\yi5ie4yxe0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\36mcmp2057-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\788dsipytw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\xu81km6ki2-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0ghy3t0wug-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0hb779r0ei-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\z3u4m21buh-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\jtfe2sq2am-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\pw5a3l0m04-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4dfuzgsmiu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\lxqbnlpo2k-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\nznd26j4ab-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\qkxxotlfv7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\f59i1um0s0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\jwvwlr8yus-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\trmcz5wgsg-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\7h9917lj9w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\xh3fdmno43-{0}-06098lyss8-06098lyss8.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\utluc1fpmf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\hjypu2ufz1-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b75sf6w57u-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\7vde7l1dyh-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\tcmdjre4db-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\yknr9qyxwb-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\6ygkkcelyh-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\097lfb9qjo-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\k6b3rks4rm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\u19dq3d093-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0wteudabt1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b1nj2l1lg9-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\wn464swq6x-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\q885ad6pgk-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\pecrs332qo-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\mva4rt7fze-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\sxtfdwq9w1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\myfgo8s161-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\s361c7jseh-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\q70huv63bb-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ucvmfuvyk5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\bzqtuo851y-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\io3wrgadco-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\x62eu7x0hv-{0}-356vix0kms-356vix0kms.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ehxmtco3e8-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\u42kojtb45-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\y4ueshni51-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\milghq3nk8-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\f441ef1ka3-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\dn8r7i80gc-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\020u5lahp7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\veh4tde6gk-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ppy75ahcp8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\sdp3wrhhp3-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\a1xa7eoov9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\c07r32m8e7-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\voetl3mmsf-{0}-cyry7aov8b-cyry7aov8b.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\h2q4xehl4c-{0}-cyry7aov8b-cyry7aov8b.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.dll
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\refint\ClinicWebsite.dll
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.pdb
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.genruntimeconfig.cache
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\ref\ClinicWebsite.dll
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\bb89xvbkso-{0}-t47wx0w5og-t47wx0w5og.gz
+C:\Users\user\Desktop\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b41mltqlcw-{0}-5qb7pe50p8-5qb7pe50p8.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\appsettings.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.staticwebassets.runtime.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.staticwebassets.endpoints.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.exe
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.deps.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.runtimeconfig.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ClinicWebsite.pdb
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.AssemblyInfoInputs.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.AssemblyInfo.cs
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.csproj.CoreCompileInputs.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.RazorAssemblyInfo.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.RazorAssemblyInfo.cs
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.sourcelink.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\bundle\ClinicWebsite.styles.css
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\scopedcss\projectbundle\ClinicWebsite.bundle.scp.css
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\oq9kuo3uqe-{0}-mbf4d3fyj8-mbf4d3fyj8.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b41mltqlcw-{0}-5qb7pe50p8-5qb7pe50p8.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\kkvlhiw5mr-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\bb89xvbkso-{0}-t47wx0w5og-t47wx0w5og.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\88g94quhbq-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4g7u9hgq9u-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ce7465wobl-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\1mm2drkkry-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4d97dofym2-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\yi5ie4yxe0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\36mcmp2057-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\788dsipytw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\xu81km6ki2-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0ghy3t0wug-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0hb779r0ei-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\z3u4m21buh-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\jtfe2sq2am-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\pw5a3l0m04-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\4dfuzgsmiu-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\lxqbnlpo2k-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\nznd26j4ab-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\qkxxotlfv7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\f59i1um0s0-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\jwvwlr8yus-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\trmcz5wgsg-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\7h9917lj9w-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\xh3fdmno43-{0}-keugtjm085-keugtjm085.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\utluc1fpmf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\hjypu2ufz1-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b75sf6w57u-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\7vde7l1dyh-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\tcmdjre4db-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\yknr9qyxwb-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\6ygkkcelyh-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\097lfb9qjo-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\k6b3rks4rm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\u19dq3d093-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\0wteudabt1-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\b1nj2l1lg9-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\wn464swq6x-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\q885ad6pgk-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\pecrs332qo-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\mva4rt7fze-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\sxtfdwq9w1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\myfgo8s161-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\s361c7jseh-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\q70huv63bb-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ucvmfuvyk5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\bzqtuo851y-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\io3wrgadco-{0}-48y08845bh-48y08845bh.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\x62eu7x0hv-{0}-356vix0kms-356vix0kms.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ehxmtco3e8-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\u42kojtb45-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\y4ueshni51-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\milghq3nk8-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\f441ef1ka3-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\dn8r7i80gc-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\020u5lahp7-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\veh4tde6gk-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\ppy75ahcp8-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\sdp3wrhhp3-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\a1xa7eoov9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\c07r32m8e7-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\voetl3mmsf-{0}-cyry7aov8b-cyry7aov8b.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\compressed\h2q4xehl4c-{0}-cyry7aov8b-cyry7aov8b.gz
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\refint\ClinicWebsite.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.pdb
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.genruntimeconfig.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ref\ClinicWebsite.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWebsite.csproj.AssemblyReference.cache
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Humanizer.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\obj\Debug\net10.0\ClinicWe.27F12677.Up2Date
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WarRaich Computer\Documents\projects\encryption\asp\MERN-Clinic-Website\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

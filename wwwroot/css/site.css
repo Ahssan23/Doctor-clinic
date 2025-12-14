@@ -1,0 +1,147 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    scroll-behavior: smooth;
+    background-color: #111;
+    color: white;
+}
+
+/* HEADER */
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.85);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+    z-index: 1000;
+}
+.header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #00ffff;
+}
+.header .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.header .nav-links li a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.header .nav-links li a:hover {
+    color: #00ffff;
+}
+
+/* SECTIONS */
+section {
+    min-height: 60vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px 20px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+section p {
+    font-size: 1rem;
+    max-width: 700px;
+    margin: auto;
+}
+section .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+section .cards div, .doctor-cards .card {
+    background: rgba(0,0,0,0.6);
+    padding: 25px;
+    border-radius: 10px;
+    min-width: 150px;
+    font-size: 1rem;
+}
+
+/* FORM */
+section form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+section input, section button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+section button {
+    background: #00ffff;
+    color: black;
+    cursor: pointer;
+}
+section button:hover {
+    background: #009999;
+}
+
+
+/* BACKGROUNDS - placeholders for you to add images */
+#hero {
+    background: url('/Images/hero.jpg') center/cover no-repeat;
+}
+
+#about {
+    background: url('/Images/empty-hallway-background.jpg') center/cover no-repeat;
+}
+
+#services {
+    background: url('/Images/empty-medical-office-with-desktop-pc.jpg') center/cover no-repeat;
+}
+
+#appointment {
+    background: url('/Images/appointment.jpg') center/cover no-repeat;
+}
+
+#why {
+    background: url('/Images/why.jpg') center/cover no-repeat;
+}
+
+#testimonials {
+    background: url('/Images/testimonial.jpg') center/cover no-repeat;
+}
+
+#facilities {
+    background: url('/Images/facilities.jpg') center/cover no-repeat;
+}   
+
+#contact {
+    background: url('/Images/contact.jpg') center/cover no-repeat;
+}
+
+
+/* OTHER STYLING */
+footer { background:black; padding:20px; text-align:center;}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .header {flex-direction:column; gap:10px; padding:15px 20px;}
+  section {padding:30px 20px;}
+  .cards, .doctor-cards {flex-direction:column; gap:15px;}
+}

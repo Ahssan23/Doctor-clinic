@@ -1,0 +1,14 @@
+﻿
+{
+"profiles": {
+  "ClinicWebsite": {
+    "commandName": "Project",
+    "dotnetRunMessages": true,
+    "launchBrowser": true,
+    "applicationUrl": "http://localhost:5236",
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  }
+}
+}
